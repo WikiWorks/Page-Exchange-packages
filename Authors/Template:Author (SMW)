@@ -1,0 +1,23 @@
+<noinclude>
+This is the "Author" template.
+It should be called in the following format:
+<pre>
+{{Author
+|Country of origin=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+'''Country of origin:''' [[Country::{{{Country of origin|}}}]]
+{{#ask:
+[[Category:Books]]
+[[Author::{{PAGENAME}}]]
+|intro=<b>Books by this author:</b>
+|format=ul
+}}
+
+'''Add another book by this author:'''
+{{#forminput:form=Book|query string=Book[Authors]={{PAGENAME}} }}
+
+[[Category:Authors]]
+</includeonly>
