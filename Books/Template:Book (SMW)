@@ -1,0 +1,32 @@
+<noinclude>
+This is the "Book" template.
+It should be called in the following format:
+<pre>
+{{Book
+|Authors=
+|Genres=
+|Year of publication=
+|ISBN=
+|Number of pages=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#set:
+|Author={{{Authors|}}}|+sep=,
+|ISBN={{{ISBN|}}}
+|Genre={{{Genres|}}}|+sep=,
+|Year of publication={{{Year of publication|}}}
+|Number of pages={{{Number of pages|}}}
+}}
+'''Author(s):''' {{#arraymap:{{{Authors|}}}|,|x|{{#formredlink:form=Author|target=x}} }}
+
+'''Genre(s):''' {{{Genres|}}}
+
+'''Year of publication:''' {{{Year of publication|}}}
+
+'''ISBN:''' {{{ISBN|}}}
+
+'''Number of pages:''' {{{Number of pages|}}}
+
+[[Category:Books]]
+</includeonly>
