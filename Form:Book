@@ -1,0 +1,43 @@
+<noinclude>
+This is the "Book" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Book}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Book}}}
+'''Author(s):'''
+
+{{{field|Authors}}}
+
+'''Genre(s):'''
+
+{{{field|Genres|input type=tokens}}}
+
+'''Year of publication:'''
+
+{{{field|Year of publication|input type=year}}}
+
+'''ISBN:'''
+
+{{{field|ISBN}}}
+
+'''Number of pages:'''
+
+{{{field|Number of pages}}}
+{{{end template}}}
+
+'''Notes:'''
+
+{{{standard input|free text|rows=3}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>
