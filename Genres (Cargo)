@@ -1,0 +1,17 @@
+''This page shows some examples of Cargo queries to show the distribution of data.''
+
+==Outline==
+{{#cargo_query:
+table=Books
+|fields=Genres,_pageName
+|outline fields=Genres, _pageName
+|format=outline
+}}
+
+==Bar chart==
+{{#cargo_query:
+table=Books
+|fields=Genres,COUNT(*)=Number of books
+|group by=Genres
+|format=bar chart
+}}
