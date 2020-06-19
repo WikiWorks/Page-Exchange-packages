@@ -1,0 +1,28 @@
+<noinclude>
+This is the "Book" template.
+
+{{#cargo_declare:_table=Books
+|Authors=List (,) of Page
+|Genres=List (,) of String
+|Year_of_publication=Date
+|ISBN=String
+|Number_of_pages=Integer}}
+</noinclude>
+<includeonly>{{#cargo_store:_table=Books
+|Authors={{{Authors|}}}
+|Genres={{{Genres|}}}
+|Year_of_publication={{{Year of publication|}}}
+|ISBN={{{ISBN|}}}
+|Number_of_pages={{{Number of pages|}}} }}'''Author(s):''' {{#arraymap:{{{Authors|}}}|,|x|{{#formredlink:form=Author|target=x}} }}
+
+'''Genre(s):''' {{{Genres|}}}
+
+'''Year of publication:''' {{{Year of publication|}}}
+
+'''ISBN:''' {{{ISBN|}}}
+
+'''Number of pages:''' {{{Number of pages|}}}
+
+[[Category:Books]]
+</includeonly>
+ 
