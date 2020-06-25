@@ -32,6 +32,10 @@
 					"name": "Author",
 					"namespace": "PF_NS_FORM",
 					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Authors/Form%3AAuthor"
+				},
+				{
+					"name": "Genres",
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Books/Genres%20(Cargo)"
 				}
 			],
 			"requiredExtensions": [
