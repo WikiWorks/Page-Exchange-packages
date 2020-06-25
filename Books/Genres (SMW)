@@ -1,0 +1,17 @@
+''This page shows some examples of Semantic MediaWiki queries to show the distribution of data.''
+
+==Outline==
+{{#ask:
+[[Category:Books]]
+|?Genre
+|outlineproperties=Genre
+|format=outline
+}}
+
+==Bar chart==
+{{#ask:
+[[Category:Books]]
+|?Genre
+|format=jqplotchart
+|distribution=yes
+}}
