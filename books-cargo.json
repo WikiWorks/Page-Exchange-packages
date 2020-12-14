@@ -6,6 +6,7 @@
 	],
 	"language": "en",
 	"url": "https://github.com/WikiWorks/Page-Exchange-packages",
+	"licenseName": "CC BY-SA 4.0",
 	"packages": {
 		"Books demo (Cargo)": {
 			"globalID": "com.wikiworks.books-demo-cargo",
