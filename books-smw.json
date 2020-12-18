@@ -65,8 +65,8 @@
 				}
 			],
 			"requiredExtensions": [
-				"Page Forms",
-				"Cargo"
+				"Semantic MediaWiki",
+				"Page Forms"
 			]
 		},
 		"Books demo data (SMW)": {
