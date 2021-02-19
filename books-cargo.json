@@ -12,7 +12,7 @@
 			"globalID": "com.wikiworks.books-demo-cargo",
 			"publisherURL": "https://wikiworks.com",
 			"description": "A data structure for information on books and authors, using the Cargo and Page Forms extensions.",
-			"version": "0.1",
+			"version": "0.2",
 			"pages": [
 				{
 					"name": "Book",
