@@ -80,39 +80,39 @@
 				},
 				{
 					"name": "Footfall",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Books/data/Footfall"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Books/data/Footfall"
 				},
 				{
 					"name": "Growth of the Soil",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Books/data/Growth%20of%20the%20Soil"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Books/data/Growth%20of%20the%20Soil"
 				},
 				{
 					"name": "Ringworld",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Books/data/Ringworld"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Books/data/Ringworld"
 				},
 				{
 					"name": "The Devotion of Suspect X",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Books/data/The%20Devotion%20of%20Suspect%20X"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Books/data/The%20Devotion%20of%20Suspect%20X"
 				},
 				{
 					"name": "The Interpreters",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Books/data/The%20Interpreters"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Books/data/The%20Interpreters"
 				},
 				{
 					"name": "Claudia Pi&ntilde;eiro",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Authors/data/Claudia%20Pi%C3%B1eiro"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Authors/data/Claudia%20Pi%C3%B1eiro"
 				},
 				{
 					"name": "Knut Hamsun",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Authors/data/Knut%20Hamsun"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Authors/data/Knut%20Hamsun"
 				},
 				{
 					"name": "Larry Niven",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Authors/data/Larry%20Niven"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Authors/data/Larry%20Niven"
 				},
 				{
 					"name": "Wole Soyinka",
-					"url": "https://github.com/WikiWorks/Page-Exchange-packages/raw/master/Authors/data/Wole%20Soyinka"
+					"url": "https://raw.githubusercontent.com/WikiWorks/Page-Exchange-packages/master/Authors/data/Wole%20Soyinka"
 				}
 			],
 			"requiredExtensions": [
